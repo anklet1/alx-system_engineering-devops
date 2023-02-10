@@ -1,2 +1,2 @@
 #!/bin/bash
-lines (1 sloc)  5 Bytes
+chmod 753 hello
